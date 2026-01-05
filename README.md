@@ -10,6 +10,7 @@ The example was originally taken from the https://www.gillsdk.com/api/gill and a
 - [Solana Kite](https://solanakite.org)
 - [Gill](https://www.gillsdk.com)
 - [Framework Kit](https://github.com/solana-foundation/framework-kit)
+- [Metaplex Umi](https://github.com/metaplex-foundation/umi)
 - [web3.js v1](https://solana-labs.github.io/solana-web3.js/)
 
 ## Running the Examples
@@ -19,6 +20,7 @@ npx tsx kite.ts
 npx tsx gill.ts
 npx tsx kit.ts
 npx tsx framework-kit.ts
+npx tsx umi.ts
 npx tsx web3js.ts
 ```
 
@@ -43,5 +45,6 @@ kite.ts                79 tokens
 framework-kit.ts       99 tokens (25.3% more code)
 web3js.ts             145 tokens (83.5% more code)
 gill.ts               157 tokens (98.7% more code)
+umi.ts                182 tokens (130.4% more code)
 kit.ts                251 tokens (217.7% more code)
 ```

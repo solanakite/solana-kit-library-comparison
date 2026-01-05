@@ -1,7 +1,7 @@
 import * as ts from "typescript";
 import { readFileSync } from "fs";
 
-const files = ["kite.ts", "gill.ts", "kit.ts", "framework-kit.ts", "web3js.ts"];
+const files = ["kite.ts", "gill.ts", "kit.ts", "framework-kit.ts", "umi.ts", "web3js.ts"];
 
 interface TokenCount {
   file: string;
